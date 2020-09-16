@@ -24,10 +24,3 @@ visualization and pairwise comparison.
 4. Change the database credentials in the ```main()``` of ```word_cloud_generator.py``` and run to generate the word cloud on crime_premise attribute values. 
 5. Change the database credentials in the ```main()``` of ```kmeans_clustering.py``` and run to performs k-means clustering for 10K datapoints.
 6. Change the database credentials in the ```main()``` of ```association_rules.py``` and run to apply association mining rules.
-
-You can also download the PostgreSQL dump of the final extracted dataset from:  https://drive.google.com/file/d/1pLWvyxb1TndTu6EUo07W9gEr2jDSPSt1/view?usp=sharing
-
-The dump data includes two tables - 
-
-   1. ```crime_data``` : Merged raw data from the two datasources. 
-   2. ```cleaned_crime_data``` : Merged and cleaned data from the ```cleaned_crime_data``` table.
