@@ -1,9 +1,9 @@
 # Big Data Analytics: Analysis of crime data in New York City and Los Angeles
 
 Team Data Wizards, Rochester Institute of Technology
-  - Aswathi Manden, ak3793@rit.edu
-  - Diptanu Sarkar, ds9297@rit.edu
-  - Sharath Nagulapally, sn8145@rit.edu
+  - Aswathi Manden
+  - Diptanu Sarkar
+  - Sharath Nagulapally
   
 # Steps to set-up and run the project
 
